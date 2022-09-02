@@ -4,7 +4,7 @@ const Raghava = () => {
   return (
     <div>
       <div>
-        This is also a component.
+        This is Raghavendra.
       </div>
     </div>
   )
