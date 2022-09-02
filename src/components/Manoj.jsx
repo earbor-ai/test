@@ -4,7 +4,7 @@ const Manoj = () => {
   return (
     <div>
       <div>
-        This is a component ghjgnhgtjtjtj gjjtjy
+        This is Manoj Gokina.
       </div>
     </div>
   )
