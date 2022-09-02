@@ -4,7 +4,7 @@ const Raghava = () => {
   return (
     <div>
       <div>
-        This is Raghavendra.
+      LEnovo Laptop
       </div>
     </div>
   )
