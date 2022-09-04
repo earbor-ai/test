@@ -4,7 +4,7 @@ const Raghava = () => {
   return (
     <div>
       <div>
-      LEnovo Laptop
+          This is Raghava.y
       </div>
     </div>
   )
